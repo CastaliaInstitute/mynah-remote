@@ -7,7 +7,7 @@ prompts, and controls find you where you are.
 
 ## Overview
 
-- **Form factor:** 3" mini phone
+- **Form factor:** 3" mini phone (`XS11`: Android 8.1, 240×432 @ ~200dpi/120 override)
 - **Awareness:** location-aware — indoors, it uses WiFi and other Mynah
   static nodes to figure out which room you are in (room-level positioning
   rather than GPS)
